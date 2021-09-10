@@ -14,6 +14,7 @@
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: "merci" is how you say "thank you" in Farsi!
 
+<div align="center"> 
 <details>
   <summary>🎵 let me make you a playlist! here's what i've been jamming:</summary>
   <br />
