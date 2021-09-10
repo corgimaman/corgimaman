@@ -1,24 +1,34 @@
-### Hi there 👋
-<div align="center">  welcome to my github ✨ </div>
-  
+<div align="center">  
+
+# Welcome!
 <div align="right">
-- 🔭 I’m currently working on updating my e-commerce website and helping out on [the Narrator](https://gitlab.com/the-narrator/NarratorNode)
-- 🌱 I’m currently learning VBA and depening knowledge on React
-- 👯 I’m looking to collaborate on anything, especially environmentally friendly/targeted projects.
-- 🤔 I’m looking for help with meal planning lol.
-- 💬 Ask me about yoga, color schemes, or embroidery.
-- 📫 How to reach me: call me beep me! E-mail is great.
-- 😄 Pronouns: she/her/they
-- ⚡ Fun fact: "merci" is how you say "thank you" in Farsi!
-  </div>
-  <div align="center">
- I love jamming out, let me make you a playlist!
-    ![spotifystats](https://spotify-recently-played-readme.vercel.app/api?user=pidzza)
+
+###### 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
 </div>
+
+![Joel Dore's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeldore&show_icons=true&theme=algolia&hide=stars,issues)
+
+<details>
+  <summary>🎵 I love music! See what I've been listening to:</summary>
+  <br />
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=094ictu4e47qbkj33yywbz0jd&count=3)
+</details>
+
+🖋️ Check out some fun mini-projects on my [Codepen](https://codepen.io/JoelDore)  
+  
+⬇️ And my full-scale professional projects below ⬇️
+
+</div>
+
+<!-- 🧪 Currently building/working on {something} -->
+
 <!--
-**corgimaman/corgimaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
+# Ideas:
+- 🔭 Currently working on...
+- 👯 Looking to collaborate on...
+- 🤔 Looking for help with...
+- 💬 Ask me about...
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
 -->
