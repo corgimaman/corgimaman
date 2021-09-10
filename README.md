@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">  welcome to my github ✨
+<div align="center">  welcome to my github ✨ </div>
   
 <div align="right">
 - 🔭 I’m currently working on updating my e-commerce website and helping out on [the Narrator](https://gitlab.com/the-narrator/NarratorNode)
@@ -10,11 +10,11 @@
 - 📫 How to reach me: call me beep me! E-mail is great.
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: "merci" is how you say "thank you" in Farsi!
-  
+  </div>
   <div align="center">
  I love jamming out, let me make you a playlist!
     ![spotifystats](https://spotify-recently-played-readme.vercel.app/api?user=pidzza)
-
+</div>
 <!--
 **corgimaman/corgimaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
